@@ -1,0 +1,20 @@
+{
+  "files": {
+    "datosyt.csv": [
+      {
+        "id": "9d0f6ac2-19d7-46bc-9366-2641fbacfd43",
+        "line": 10218,
+        "version": 10,
+        "index": 259280
+      }
+    ],
+    "main.py": [
+      {
+        "id": "e7a249e5-5949-4d70-b0b9-a15bd1e37fe7",
+        "line": 67,
+        "version": 528,
+        "index": 1763
+      }
+    ]
+  }
+}
